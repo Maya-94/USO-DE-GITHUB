@@ -1,6 +1,3 @@
-# USO-DE-GITHUB
-Repositorio de práctica para la tarea de GitHub
-cd /ruta/a/Tarea-Matrices
 git init
 git add .
 git commit -m "feat: agregar búsqueda y ordenación en matriz 3x3"
